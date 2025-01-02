@@ -10,7 +10,7 @@ def main(parameter):
         path, uda_method, src, tgt, batch_size = (parameter[k] for k in
                                                   ['path', 'uda_method', 'source', 'target', 'batch_size'])
 
-        print(f'{"PE":13s} {"UDA":13s} {"test f1-score":10s}')
+        print(f'{"PE":13s} {"UDA":13s} {"test f1-score":10s }')
 
         for strategy in ['Deterministic', 'Gaussian']:
             for uda in ['source_only', uda_method]:
