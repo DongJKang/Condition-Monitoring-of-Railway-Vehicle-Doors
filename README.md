@@ -6,7 +6,7 @@ PyTorch implementation for validation
 ### Installation
 Install library versions that are compatible with your environment.
 ```bash
-git clone https://github.com/DongJKang/pytorch-DANN.git
+git clone https://github.com/DongJKang/Condition-Monitoring-of-Railway-Vehicle-Doors.git
 cd pytorch-DANN
 conda create -n dann python=3.9
 conda activate dann
