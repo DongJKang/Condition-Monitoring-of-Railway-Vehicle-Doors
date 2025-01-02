@@ -1,5 +1,5 @@
 # Condition Monitoring of Railway Vehicle Doors Using Domain Adaptation with Probabilistic Embedding
-PyTorch implementation for validation
+Testing code for (TBD)
 
 ## Getting started
 
