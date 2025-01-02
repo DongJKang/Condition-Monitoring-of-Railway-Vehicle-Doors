@@ -24,16 +24,16 @@ pytorch=1.12.1
 ```
 
 ### Usages
-Running the code below will execute the test:
+Running the code below will execute the tests:
 ```
 python main.py
 ```
 
-## Experimental results
+## Test results
 
 Task1: T1 -> T2
-| PE            | UDA            | f1-score               |
-| :-----------: | :------------: | :--------------------: |
+| PE            | UDA            | test f1-score               |
+| ------------- | -------------- | ---------------------- |
 | ✗             | ✗             | src: 97.28 tgt: 91.14  |
 | ✗             | ✓ (mcd)       | src: 96.49 tgt: 96.02  |
 | ✓ (Gaussian)  | ✗             | src: 96.49 tgt: 93.78  |
@@ -41,8 +41,8 @@ Task1: T1 -> T2
 
 
 Task2: T2b -> F
-| PE            | UDA            | f1-score               |
-| :-----------: | :------------: | :--------------------: |
+| PE            | UDA            | test f1-score               |
+| ------------- | -------------- | ---------------------- |
 | ✗             | ✗             | src: 97.22 tgt: 89.74  |
 | ✗             | ✓ (adda)      | src: 63.16 tgt: 92.47  |
 | ✓ (Gaussian)  | ✗             | src: 97.14 tgt: 89.74  |
