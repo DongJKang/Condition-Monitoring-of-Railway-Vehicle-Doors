@@ -1,5 +1,5 @@
 # Condition Monitoring of Railway Vehicle Doors Using Domain Adaptation with Probabilistic Embedding
-Testing code for master thesis "Condition Monitoring of Railway Vehicle Doors Using Domain Adaptation with Probabilistic Embedding"
+Testing code for a master thesis "Condition Monitoring of Railway Vehicle Doors Using Domain Adaptation with Probabilistic Embedding"
 
 
 
